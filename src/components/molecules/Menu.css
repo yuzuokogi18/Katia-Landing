@@ -1,0 +1,22 @@
+.menu-container {
+    padding: 20px;
+  }
+  
+  .menu-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+  }
+  
+  .menu-item {
+    text-align: center;
+  }
+  
+  .menu-item img {
+    max-width: 100%;
+  }
+  
+  .menu-item span {
+    display: block;
+    margin-top: 10px;
+  }

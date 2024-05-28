@@ -1,0 +1,22 @@
+.description-container {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .description-text {
+    flex: 1;
+    padding-right: 20px;
+  }
+  
+  .description-image {
+    flex: 1;
+    text-align: right;
+  }
+  
+  .description-image img {
+    max-width: 100%;
+    height: auto;
+    max-height: 700px; 
+  }
+  

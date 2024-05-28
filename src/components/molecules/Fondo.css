@@ -1,0 +1,13 @@
+.Fondo_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+
+.Fondo_menu {
+    text-align: center;
+    font-size: 24px;
+}
